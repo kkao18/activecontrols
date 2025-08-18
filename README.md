@@ -5,28 +5,51 @@ This project is part of the **Princeton Rocketry Club’s Active Controls subtea
 
 ## My Role
 - **Team Lead (Jun 2025 – Present):**  
-  - Direct testing, refinement, and launch of the TVC system, including live-fire tests.  
-  - Implement a structured cycle of goal-setting, planning, execution, and review to grow the subteam.  
-  - Lead recruitment and revitalize engagement to expand membership and technical capabilities.  
+  - This year, I am in charge of organizing testing, an initial launch at the beginning of the year, refinement of our design, and a second launch of the TVC system at the end of the year.
+  - I am implementing a structured cycle of goal-setting, planning, execution, and review to grow both the team and individuals.  
+  - By personalizing each member's role to their strengths and goals, I aim to maximize both productivity and individual growth.
+  - Taking on the lead role means getting out of my comfort zone and becoming comfortable with PCB design, control systems, and more, which I have been doing over the summer and plan to continue to do.
 
 - **Mechanical Team Member (Aug 2024 – May 2025):**  
-  - Led CAD modeling and design of the TVC motor mount, reducing mount size by 20% compared to prior versions.  
-  - Designed, prototyped, and tested a black powder parachute ejection system using Fusion360 and 3D-printed components.  
-  - Collaborated with electronics/software subteams to integrate IMU feedback and closed-loop control.  
+  - Modeling the Thrust Vector Control motor mount in Fusion 360 using previous iterations as references, I was able to cut down its footprint by around 20% while maintaining the desired ranges of motion.
+  - The parachute ejection system was designed from scratch with references to popular online rocketry creators (like BPS Space). It began as a [hand drawn design](sketches/bulkheads_sketch), which guided the CAD modeling design and prototype testing.
+  - Communication with electrical and software teams was crucial to make sure deadlines were met and the TVC/parachute system integrated seamlessly.
 
 ## Technical Highlights
 - **CAD & Design Tools:** SolidWorks, Fusion360, KiCad
 - **Fabrication:** 3D printing, heat-set inserts, precision assembly  
 - **Integration:** Work with electronics and software for real-time control  
-- **Testing:** Black powder testing of parachute ejection system
+- **Testing:** Black powder testing of parachute ejection system, TVC response testing
 
 ## Future Work and Goals
 - Complete first-semester launch with TVC system  
-- Enhance control algorithms and system robustness  
-- Explore modular actuator design for field servicing  
+- Enhance control algorithms and system robustness with different components
+- Program different pre-determined paths to maneuver (without tripping the ITAR wire)
+- Explore BIGGER rocket ??? 
 - Increase subteam visibility and recruit new members  
 
 ## Media
-📸 <img width="953" height="1124" alt="image" src="https://github.com/user-attachments/assets/56e8490f-1065-4efb-8fdc-6f4c60f213c5" />
+**📸 Thrust Vector Control Motor Mount**
+Isometric Views
+[![TVC Isometric](images/tvc_1.png)](images/tvc_1.png)
+[![TVC Isometric 2](images/tvc_2.png)](images/tvc_2.png)
+Bottom View
+[![TVC_Bottom](images/tvc_3.png)](images/tvc_3.png)
+*Access the engineering drawing for the motor mount [here](drawings/motor_mount_drawing.pdf).*
 
-📹 Live-fire test video (to be uploaded)  
+**📸 Bulkheads from Parachute Ejection System**
+Upper Bulkhead
+[![Upper Bulkhead](images/upper_bulkhead.png)](images/upper_bulkhead.png)
+Lower Bulkhead
+[![Lower Bulkhead](images/lower_bulkhead.png)](images/lower_bulkhead.png)
+[![Lower Bulkhead 2](images/lower_bulkhead2.png)](images/lower_bulkhead2.png)
+*Access the engineering drawing for the Upper Bulkhead [here](drawings/upper_bulkhead_drawing.pdf) and the Lower Bulkhead [here](drawings/lower_bulkhead_drawing.pdf).*
+
+**📹 Early-Stage TVC Actuation Test**
+![TVC Test](videos/tvc_actuation.mov)
+
+**📹 Parachute Ejection Test Video**
+![Parachute Test Vid](videos/parachute_ejection_test.MOV)
+
+**📹 Live Fire Test Video**
+*to be uploaded...*
