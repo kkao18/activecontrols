@@ -46,10 +46,17 @@ Lower Bulkhead
 *Access the engineering drawing for the Upper Bulkhead [here](drawings/upper_bulkhead_drawing.pdf) and the Lower Bulkhead [here](drawings/lower_bulkhead_drawing.pdf).*
 
 **📹 Early-Stage TVC Actuation Test**
-![TVC Test](videos/tvc_actuation.mov)
+
+<a href="videos/tvc_actuation.mov">
+  <img src="images/tvc_test_thumb.jpg" width="300">
+</a>
 
 **📹 Parachute Ejection Test Video**
-![Parachute Test Vid](videos/parachute_ejection_test.MOV)
+
+<a href="videos/parachute_test.MOV">
+  <img src="images/parachute_test_thumb.jpg" width="300">
+</a>
 
 **📹 Live Fire Test Video**
+
 *to be uploaded...*
