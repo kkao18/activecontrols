@@ -1,7 +1,7 @@
 # Princeton Rocketry – Active Controls (Thrust Vector Control)
 
 ## Overview
-This project is part of the **Princeton Rocketry Club’s Active Controls subteam**, where we design, build, and test a thrust vector control (TVC) system for high-power model rockets. The TVC allows the rocket to dynamically adjust its thrust direction during flight, improving stability and control.
+This project follows my work in the **Princeton Rocketry Club’s Active Controls subteam**, where we design, build, and test a thrust vector control (TVC) system for high-power model rockets. The TVC allows the rocket to dynamically adjust its thrust direction during flight, improving stability and control.
 
 *The CAD files for each of the three components I designed can be found in the [/CAD folder](CAD/) in the forms of .3mf files.*
 
@@ -16,6 +16,7 @@ This project is part of the **Princeton Rocketry Club’s Active Controls subtea
   - Modeling the Thrust Vector Control motor mount in Fusion 360 using previous iterations as references, I was able to cut down its footprint by around 20% while maintaining the desired ranges of motion.
   - The parachute ejection system was designed from scratch with references to popular online rocketry creators (like BPS Space). It began as a [hand drawn design](sketches/bulkheads_sketch.jpg), which guided the CAD modeling design and prototype testing.
   - Communication with electrical and software teams was crucial to make sure deadlines were met and the TVC/parachute system integrated seamlessly.
+  - Coming into the year with ZERO rocketry and CAD experience (other than 3d printing a small American flag), I had to learn quickly by throwing myself into the deep end, from the basics of what exactly was in a rocket to designing the components that made up one.
 
 ## Technical Highlights
 - **CAD & Design Tools:** SolidWorks, Fusion360, KiCad
