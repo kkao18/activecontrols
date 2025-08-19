@@ -55,10 +55,10 @@ Lower Bulkhead
 
 **📹 Parachute Ejection Test Video**
 
-<a href="videos/parachute_test.MOV">
+<a href="videos/parachute_ejection_test.MOV">
   <img src="images/parachute_test_thumb.jpg" width="300">
 </a>
 
 **📹 Live Fire Test Video**
 
-*to be uploaded...*
+*to come...*
