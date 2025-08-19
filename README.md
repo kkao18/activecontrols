@@ -14,7 +14,7 @@ This project is part of the **Princeton Rocketry Club’s Active Controls subtea
 
 - **Mechanical Team Member (Aug 2024 – May 2025):**  
   - Modeling the Thrust Vector Control motor mount in Fusion 360 using previous iterations as references, I was able to cut down its footprint by around 20% while maintaining the desired ranges of motion.
-  - The parachute ejection system was designed from scratch with references to popular online rocketry creators (like BPS Space). It began as a [hand drawn design](sketches/bulkheads_sketch), which guided the CAD modeling design and prototype testing.
+  - The parachute ejection system was designed from scratch with references to popular online rocketry creators (like BPS Space). It began as a [hand drawn design](sketches/bulkheads_sketch.jpg), which guided the CAD modeling design and prototype testing.
   - Communication with electrical and software teams was crucial to make sure deadlines were met and the TVC/parachute system integrated seamlessly.
 
 ## Technical Highlights
