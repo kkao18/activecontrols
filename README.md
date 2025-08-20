@@ -33,6 +33,7 @@ This project follows my work in the **Princeton Rocketry Club’s Active Control
 
 ## Media
 **📸 Thrust Vector Control Motor Mount**
+
 Isometric Views
 [![TVC Isometric](images/tvc_1.png)](images/tvc_1.png)
 [![TVC Isometric 2](images/tvc_2.png)](images/tvc_2.png)
@@ -41,6 +42,7 @@ Bottom View
 *Access the engineering drawing for the motor mount [here](drawings/motor_mount_drawing.pdf).*
 
 **📸 Bulkheads from Parachute Ejection System**
+
 Upper Bulkhead
 [![Upper Bulkhead](images/upper_bulkhead.png)](images/upper_bulkhead.png)
 Lower Bulkhead
