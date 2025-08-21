@@ -3,7 +3,7 @@
 ## Overview
 This project follows my work in the **Princeton Rocketry Club’s Active Controls subteam**, where we design, build, and test a thrust vector control (TVC) system for high-power model rockets. The TVC allows the rocket to dynamically adjust its thrust direction during flight, improving stability and control.
 
-*The CAD files for each of the three components I designed can be found in the [/CAD folder](CAD/) in the forms of .3mf files.*
+*The CAD files for each of the three components I designed can be found in the [/CAD folder](CAD/) in the forms of .3mf files as well as interactive .stl files.*
 
 ## My Role
 - **Team Lead (Jun 2025 – Present):**  
