@@ -25,11 +25,12 @@ This project follows my work in the **Princeton Rocketry Club’s Active Control
 - **Testing:** Black powder testing of parachute ejection system, TVC response testing
 
 ## Future Work and Goals
-- Complete first-semester launch with TVC system  
-- Enhance control algorithms and system robustness with different components
-- Program different pre-determined paths to maneuver (without tripping the ITAR wire)
-- Explore BIGGER rocket ??? 
-- Increase subteam visibility and recruit new members  
+- Successfully complete first-semester launch with the thrust vector control (TVC) system  
+- Enhance control algorithms and improve system robustness through iterative testing and new component integration  
+- Implement pre-programmed flight paths for controlled maneuvers (while staying ITAR-compliant)  
+- Explore scaling designs to larger rocket platforms  
+- Increase subteam visibility, documentation, and recruitment of new members  
+- Establish a long-term design roadmap toward autonomous recovery and self-landing capability  
 
 ## Media
 **📸 Thrust Vector Control Motor Mount**
